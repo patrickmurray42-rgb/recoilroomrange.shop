@@ -61,7 +61,7 @@ function Hero() {
 
         <ul className="mt-8 grid grid-cols-2 gap-3 text-sm text-gray-400">
           <li>Open: Mon–Sat • 10:00–20:00</li>
-          <li>30 lanes · Up to 50 yd simulated options</li>
+          <li>4 lanes · Up to 25 yd s</li>
           <li>Lane rate: $30/hr</li>
           <li>Memberships & gift cards available</li>
         </ul>
@@ -92,7 +92,7 @@ function Services() {
             <h3 className="text-lg font-semibold">Lane Rentals</h3>
             <p className="text-gray-400 mt-2">$30 / hour per lane. Rentals include basic targets and lane time.</p>
             <ul className="mt-4 text-gray-400">
-              <li>Up to 6 shooters per lane</li>
+              <li>Up to 2 shooters per lane</li>
               <li>Longer distances on select lanes</li>
             </ul>
           </CardContent>
@@ -108,7 +108,7 @@ function Services() {
         <Card>
           <CardContent>
             <h3 className="text-lg font-semibold">Memberships</h3>
-            <p className="text-gray-400 mt-2">Monthly and yearly plans for frequent shooters. Members get priority booking and discounts on training.</p>
+            <p className="text-gray-400 mt-2">Monthly plans for frequent shooters. Members get priority booking and discounts on training.</p>
           </CardContent>
         </Card>
       </div>
